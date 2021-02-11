@@ -1,0 +1,9 @@
+Mean is: 1137.00
+Mode is: 1047.50
+Range is: 402.90
+Smallest is: 909.10
+Largest is: 1312.00
+Q1 is: 1010.30
+Q2/Median is: 1052.30
+Q3 is: 1108.00
+Standard Deviation is: 82.95
